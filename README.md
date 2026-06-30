@@ -56,20 +56,20 @@ A validação matemática dos dados no encerramento deste projeto apresentou os 
 
 O dashboard foi estruturado em duas páginas principais utilizando um framework de análise macro-para-micro:
 
-### Página 1: Visão Geral e Diagnóstico de Perdas
+### Página 1: Números da Operação e Evolução de Cancelamentos e Devoluções
 * Linha de KPIs executivos com os 4 cartões de fluxo financeiro auditados.
 * Análise temporal de picos históricos de faturamento e taxas de conversão de pedidos saudáveis.
 
 <p align="center">
-  <img src="grafico1.png" alt="Visão Geral" width="100%">
+  <img src="grafico1.png" alt="Números da Operação e Evolução de Cancelamentos e Devoluções" width="100%">
 </p>
 
-### Página 2: Detalhamento de Atrito por Produto
+### Página 2: Visão Geral e Diagnóstico de Perdas
 * **Top 10 Categorias com Maior Atrito Financeiro:** Gráfico de colunas ordenado de forma decrescente pelo prejuízo absoluto, revelando as categorias onde a operação mais queima margem de lucro.
 * **Ranking de Atrito por Fornecedor (Marca):** Tabela analítica com paginação detalhando o volume físico (`Itens Cancelados` e `Itens Devolvidos`) cruzado com o `Prejuízo Total ($)` por marca, servindo como ferramenta direta para renegociação de contratos pelo setor de compras.
 
 <p align="center">
-  <img src="grafico2.png" alt="Detalhamento de Atrito" width="100%">
+  <img src="grafico2.png" alt="Visão Geral e Diagnóstico de Perdas" width="100%">
 </p>
 
 ---
