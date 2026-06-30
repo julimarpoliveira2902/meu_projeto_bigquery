@@ -61,7 +61,7 @@ O dashboard foi estruturado em duas páginas principais utilizando um framework 
 * Análise temporal de picos históricos de faturamento e taxas de conversão de pedidos saudáveis.
 
 <p align="center">
-  <img src="grafico1.png" alt="Visão Geral" width="100%">
+  <img src="grafico1.png.png" alt="Visão Geral" width="100%">
 </p>
 
 ### Página 2: Detalhamento de Atrito por Produto
@@ -69,7 +69,7 @@ O dashboard foi estruturado em duas páginas principais utilizando um framework 
 * **Ranking de Atrito por Fornecedor (Marca):** Tabela analítica com paginação detalhando o volume físico (`Itens Cancelados` e `Itens Devolvidos`) cruzado com o `Prejuízo Total ($)` por marca, servindo como ferramenta direta para renegociação de contratos pelo setor de compras.
 
 <p align="center">
-  <img src="grafico2.png" alt="Detalhamento de Atrito" width="100%">
+  <img src="grafico2.png.png" alt="Detalhamento de Atrito" width="100%">
 </p>
 
 ---
