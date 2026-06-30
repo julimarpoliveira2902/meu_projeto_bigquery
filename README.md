@@ -1,8 +1,20 @@
 # 📊 Visão Geral e Diagnóstico de Perdas - E-commerce TheLook
 
-Este projeto apresenta um ecossistema completo de Business Intelligence (BI) e Engenharia de Dados focado no monitoramento financeiro e no diagnóstico de atrito (perdas por cancelamentos e devoluções) em um e-commerce global. 
+## 🎯 Por Que Este Projeto Foi Desenvolvido? 
+No ecossistema do varejo digital e e-commerce, o indicador de **Faturamento Bruto (Venda Global)** costuma receber a maior parte da atenção. No entanto, focar apenas na receita total pode mascarar gargalos invisíveis que corroem silenciosamente a margem de lucro de uma empresa. 
 
-A solução integra uma pipeline de tratamento em **Python**, armazenamento de alta performance em **Google BigQuery** e um dashboard estratégico interativo no **Looker Studio**.
+Este projeto foi desenvolvido para resolver uma dor real de mercado: a **falta de visibilidade sobre o atrito financeiro** (capital perdido com cancelamentos e devoluções) e a **retenção de caixa na esteira logística** (pedidos que passam semanas travados em processamento ou transporte). Sem uma auditoria de dados rigorosa, as empresas tomam decisões com base em dinheiro que nunca chegará, de fato, ao fluxo de caixa.
+
+---
+
+## 💡 Que Tipo de Solução e Insights Este Projeto Oferece?
+
+A solução entrega um ecossistema completo de Engenharia de Dados e Business Intelligence (BI) ponta a ponta. Ela integra uma pipeline de tratamento automatizada em **Python**, armazenamento e modelagem de alta performance em **Google BigQuery** e um dashboard estratégico interativo no **Looker Studio**.
+
+### Principais Insights de Valor Gerados para o Negócio:
+1. **Auditoria de Caixa Sem Furos (Data Quality):** Garante um fechamento matemático perfeito (100% de acurácia no centavo), segmentando o capital em Concluído, Em Trânsito e Perdido. Isso evita previsões orçamentárias falsas.
+2. **Identificação de "Vazamentos" de Margem:** O painel expõe de forma cirúrgica o *Top 10 de Categorias e Marcas com Maior Atrito Financeiro*. 
+3. **Insumo Direto para Ação Estratégica:** Permite que o setor de compras ou de relacionamento com fornecedores identifique instantaneamente quais parceiros comerciais estão gerando custos excessivos com devoluções por problemas de qualidade, fornecendo dados para renegociação de contratos ou descontinuação de produtos.
 
 ---
 
